@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+pillow
+PyPDF2
+youtube-transcript-api
+fpdf
+pandas
+openpyxl
